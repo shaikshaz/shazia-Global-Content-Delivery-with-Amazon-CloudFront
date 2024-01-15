@@ -60,3 +60,4 @@ Step 7: Test and Monitor
 1.	Test your CloudFront distribution by accessing your website through the CloudFront domain name.
 2.	Monitor the CloudFront and Lambda@Edge metrics in the AWS CloudWatch Console.
 3.	Review CloudFront access logs and Lambda@Edge logs for troubleshooting and optimization.
+![image](https://github.com/shaikshaz/shazia-Global-Content-Delivery-with-Amazon-CloudFront/assets/154241222/7cd34737-d159-4eb6-8fab-88baabe41bb7)
