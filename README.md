@@ -3,7 +3,7 @@ Global Content Delivery with Amazon CloudFront
 Step 1: Create an Amazon S3 Bucket for Static Content
 1.	Go to the Amazon S3 Console.
 2.	Create a new S3 bucket to host your static website content.
-3.	Upload your static content (HTML, CSS, images, etc.) to the S3 bucket.
+3.	Upload your static content (HTML)to the S3 bucket which is uploaden in index.html fomrat
 
 Give the policy under permission 
 4.	{
