@@ -43,9 +43,10 @@ Step 4: Configure CloudFront Behaviors for Dynamic and Static Content
 2.	In the "Behaviors" tab set up behaviors for dynamic and static content.
 3.	Configure caching behaviors such as TTL (Time To Live) settings, for optimal performance.
 4.	Ensure that Lambda@Edge triggers are correctly configured.
+
 Step 5: Implement Regional Failover with S3 Origins
-1.	Create another bucket in other region for regional failover.
-2.	Set up failover behaviors for primary bucket by adding in the origin section bucket name and secondary origins.Upload your static website content (HTML, CSS, JS, etc.) to an Amazon S3 bucket.
+ 1.	Create another bucket in other region for regional failover.
+ 2.	Set up failover behaviors for primary bucket by adding in the origin section bucket name and secondary origins.Upload your static website content (HTML, CSS, JS, etc.) to an Amazon S3 bucket.
 Configure CloudFront Distribution:
 Create a CloudFront distribution and configure it to use the S3 bucket as the origin.
 Enable Regional Failover:
