@@ -37,6 +37,7 @@ Step 3: Configure Amazon CloudFront Distribution for Dynamic Content with Lambda
 3.	Add code to the Lambda function to handle dynamic content generation.
 4.	Configure the Lambda function to trigger from the CloudFront distribution.
 5.	Add Lambda@Edge triggers for viewer request, origin request, origin response in the dropdown.
+
 Step 4: Configure CloudFront Behaviors for Dynamic and Static Content
 1.	In the CloudFront Console, select your distribution.
 2.	In the "Behaviors" tab set up behaviors for dynamic and static content.
