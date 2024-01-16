@@ -1,5 +1,6 @@
 # shazia-Global-Content-Delivery-with-Amazon-CloudFront
-Global Content Delivery with Amazon CloudFront
+Task:CloudFront delivers your content through a worldwide network of data centers called edge locations. When a user requests content that you're serving with CloudFront, the request is routed to the edge location that provides the lowest latency (time delay), so that content is delivered with the best possible performance
+
 Step 1: Create an Amazon S3 Bucket for Static Content
 1.	Go to the Amazon S3 Console.
 2.	Create a new S3 bucket to host your static website content.
